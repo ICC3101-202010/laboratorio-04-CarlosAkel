@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.exe
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.deps.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.runtimeconfig.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.dll
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\bin\Debug\netcoreapp3.1\Numero4.pdb
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.dll
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.pdb
+C:\Users\carlo\Desktop\Carpeta del Anime\Numero4\Numero4\obj\Debug\netcoreapp3.1\Numero4.genruntimeconfig.cache
