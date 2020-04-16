@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\Numero4\\Numero4.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\laboratorio-04-CarlosAkel\\Numero4\\Numero4.csproj",
       "projectName": "Numero4",
-      "projectPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\Numero4\\Numero4.csproj",
+      "projectPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\laboratorio-04-CarlosAkel\\Numero4\\Numero4.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\Numero4\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Numero4\\laboratorio-04-CarlosAkel\\Numero4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
